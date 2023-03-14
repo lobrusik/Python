@@ -1,5 +1,5 @@
 import random
-with open('stolice.txt','r') as f:
+with open('capitals.txt','r') as f:
     country_and_capital=f.readlines()
     f.close()
 
